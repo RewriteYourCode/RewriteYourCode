@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do RewriteYourCode!
+## Olá! Bem-vindo(a) ao meu perfil : RewriteYourCode!
 
 Sou o Doug. Comecei a estudar programação recentemente e tenho me dedicado com consistência para adquirir uma base sólida em **HTML**, **CSS** e **JavaScript**.
 
