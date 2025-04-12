@@ -21,7 +21,19 @@ Acredito no poder da tecnologia como ferramenta de transformação — e estou c
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-<br>
+---
+
+### 🌟 Meu primeiro projeto publicado
+
+**Projeto Dragon Ball Z**  
+
+Desenvolvido durante as aulas do Dev em Dobro.
+**HTML**, **CSS** e **JavaScript**.
+Utilizando o editor de códigos Acode e tablet Samsung (Android).
+
+[👉 Acesse aqui](https://rewriteyourcode.github.io/dragonballz-project/)
+
+---
 
 ### Me acompanha nas redes para ver mais da minha jornada:
 
