@@ -26,7 +26,7 @@ Acredito no poder da tecnologia como ferramenta de transformação — e estou c
 ### Me acompanha nas redes para ver mais da minha jornada:
 
 <div> 
-  <a href="https://www.youtube.com/@rewriteyourcode" target="_blank">
+  <a href="https://www.youtube.com/@RewriteyourCode77" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
