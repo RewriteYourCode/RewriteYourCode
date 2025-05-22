@@ -23,15 +23,13 @@ Acredito no poder da tecnologia como ferramenta de transformação — e estou c
 
 ---
 
-### 🌟 Meu primeiro projeto publicado
+### 🌟 Projeto em Destaque 
 
-**Projeto Dragon Ball Z**  
+**Shadow of the Colossus - Tribute Project**  
 
-Desenvolvido durante as aulas do Dev em Dobro.
-**HTML**, **CSS** e **JavaScript**.
-Utilizando o editor de códigos Acode e tablet Samsung (Android).
+Viva esta experiência!
 
-[👉 Acesse aqui](https://rewriteyourcode.github.io/dragonballz-project/)
+[👉 Acesse aqui](https://rewriteyourcode.github.io/Shadow-of-the-Colossus-Tribute-Project/)
 
 ---
 
