@@ -7,19 +7,11 @@ Apesar de usar atualmente apenas um tablet Android como ferramenta principal, te
 Acredito no poder da tecnologia como ferramenta de transformação — e estou construindo, linha por linha, uma nova trajetória profissional.
 
 **RewriteYourCode | RewriteYourLife**
-<!--
+
 <div>
   <a href="https://github.com/rewriteyourcode">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rewriteyourcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewriteyourcode&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
--->
-
-<div>
-  <a href="https://github.com/rewriteyourcode">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=rewriteyourcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewriteyourcode&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
